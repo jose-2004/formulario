@@ -1,6 +1,6 @@
 ## Codigo
 
-package Main;
+    package Main;
 
     import javafx.application.Application;
     import javafx.geometry.Insets;
@@ -100,6 +100,6 @@ package Main;
 
  ![image](https://github.com/jose-2004/formulario/assets/80079088/d401c618-a537-4379-966b-d9132eef13d3)
 
- ![image](https://github.com/jose-2004/formulario/assets/80079088/b3297d57-474b-499c-8e0e-7955950d8530)
+ ![image](https://github.com/jose-2004/formulario/assets/80079088/462f6f9c-cf15-467c-9cf0-be7424e1c859)
 
 
